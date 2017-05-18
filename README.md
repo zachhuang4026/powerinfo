@@ -1,0 +1,2 @@
+# powerinfo
+Test package
